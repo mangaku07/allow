@@ -1,0 +1,43 @@
+--------------------------------------------------------------------------------
+   - OpenVPN WS              : 2095
+   - Stunnel4                : 443,777
+   - OpenSSH                 : 443,22
+   - OpenVPN                 : TCP 1194, UDP 2200, SSL 442
+   - Dropbear                : 443,109,143
+   - Squid Proxy             : 3128, 8080
+   - Badvpn                  : 7100, 7200, 7300
+   - Nginx                   : 81
+   - Wireguard               : 7070
+   - L2TP/IPSEC VPN          : 1701
+   - PPTP VPN                : 1732
+   - SSTP VPN                : 444
+   - Shadowsocks-R           : 1443-1543
+   - SS-OBFS TLS             : 2443-2543
+   - SS-OBFS HTTP            : 3443-3543
+   - V2RAY Vmess TLS         : 8443
+   - V2RAY Vmess None TLS    : 80
+   - V2RAY Vless TLS         : 2083
+   - V2RAY Vless None TLS    : 8880
+   - Trojan                  : 2087
+   - SSL_WS                  : 443
+   - SSH_WS                  : 2082
+   - WS_OVPN                 : 2086
+   - OHP_SSH                 : 8181
+   - OHP_Dropbear            : 8282
+   - OHP_OpenVPN             : 8383
+   - Trojan GO               : 2053
+
+--------------------------------------------------------------------------------
+
+   >>> Server Information & Other Features
+   - Timezone                : Asia/Jakarta (GMT +7)
+   - Fail2Ban                : [ON]
+   - Dflate                  : [ON]
+   - IPtables                : [ON]
+   - Auto-Reboot             : [OFF]
+   - IPv6                    : [OFF]
+   - Autobackup Data
+   - Restore Data
+
+--------------------------------------------------------------------------------
+   - Telegram                : T.me/ch1341
